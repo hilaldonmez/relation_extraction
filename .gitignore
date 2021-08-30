@@ -1,0 +1,10 @@
+notebooks/.ipynb_checkpoints/
+src/__pycache__/*
+src/data/__pycache__/*
+src/.ipynb_checkpoints/
+data/*
+pickles/*
+src/models/__pycache__/*
+src/data/geniass/input_dev/*
+models/*
+
