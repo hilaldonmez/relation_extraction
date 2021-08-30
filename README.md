@@ -1,4 +1,4 @@
-# Relation Extraction
+# Relation Extraction from Biomedical Documents
 Binary relation extraction for chemical and protein interactions from biomedical documents. We aim to identify whether a sentence states there is a relation between biochemicals or not.
 
 # Model
