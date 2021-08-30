@@ -5,6 +5,7 @@ Binary relation extraction for chemical and protein interactions from biomedical
 Several Transformers-based models with different optimizers, learning rate, and weight decay were finetuned on ChemProt data set to find the relations between chemical and protein entities in biomedical literature. 
 * BioBERT
 * SciBERT
+
 We achieved the best F1-score from BioBERT-based model with a binary classification layer with softmax activation and share our best model via Google Drive.
 
 In order to run scripts from scratch, please follow these:
